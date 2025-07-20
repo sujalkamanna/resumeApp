@@ -276,7 +276,7 @@ The project uses TypeScript for type safety with interfaces for:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/sujalkamanna/resumeApp/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/sujalkamanna/resumeApp?tab=License-1-ov-file) file for details.
 
 ## 👨‍💻 Author
 
